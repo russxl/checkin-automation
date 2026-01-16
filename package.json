@@ -1,0 +1,21 @@
+{
+  "name": "zoho-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "checkin": "node scripts/zohoCheckin.js",
+    "monitor": "node scripts/zohoMonitor.js",
+    "check-wifi": "node scripts/checkWifi.js",
+    "test-wifi": "node scripts/checkWifi.js --test",
+    "install-browsers": "playwright install chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "playwright": "^1.57.0"
+  }
+}

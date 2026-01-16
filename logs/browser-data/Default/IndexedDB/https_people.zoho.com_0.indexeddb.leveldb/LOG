@@ -1,0 +1,14 @@
+2026/01/16-13:45:43.096 484e776 Reusing MANIFEST /Users/maytronics/maytronics/zoho-automation/logs/browser-data/Default/IndexedDB/https_people.zoho.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/16-13:45:43.098 484e776 Recovering log #94
+2026/01/16-13:45:43.098 484e776 Reusing old log /Users/maytronics/maytronics/zoho-automation/logs/browser-data/Default/IndexedDB/https_people.zoho.com_0.indexeddb.leveldb/000094.log 
+2026/01/16-13:45:43.099 484e776 Delete type=2 #92
+2026/01/16-13:45:43.109 484e790 Level-0 table #99: started
+2026/01/16-13:45:43.110 484e790 Level-0 table #99: 1498 bytes OK
+2026/01/16-13:45:43.111 484e790 Delete type=0 #94
+2026/01/16-13:45:43.111 484e776 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x01\x02\x01\x03\x00k\x00e\x00y' @ 2706 : 1
+2026/01/16-13:45:43.111 484e776 Compacting 1@0 + 1@1 files
+2026/01/16-13:45:43.112 484e776 Generated table #100@0: 30 keys, 659 bytes
+2026/01/16-13:45:43.112 484e776 Compacted 1@0 + 1@1 files => 659 bytes
+2026/01/16-13:45:43.113 484e776 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/16-13:45:43.113 484e776 Delete type=2 #99
+2026/01/16-13:45:43.113 484e776 Manual compaction at level-0 from '\x00\x1f\x01\x02\x01\x03\x00k\x00e\x00y' @ 2706 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)

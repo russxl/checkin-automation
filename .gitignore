@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Logs
+logs/*.log
+logs/*.png
+logs/*.json
+!logs/.gitkeep
+
+# Node modules
+node_modules/
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
